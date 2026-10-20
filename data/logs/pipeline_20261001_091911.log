@@ -1,0 +1,162 @@
+2026-10-01 09:19:11 | ==============================================================================
+2026-10-01 09:19:11 | PIPELINE PRONAF RS — download incremental + ETL
+2026-10-01 09:19:11 | ==============================================================================
+2026-10-01 09:19:11 | Raiz do projeto : D:\Cursos\POS ABI\Projetos Integrados de Analytics
+2026-10-01 09:19:11 | Log desta carga : D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\logs\pipeline_20261001_091911.log
+2026-10-01 09:19:11 | Modo            : execução real
+2026-10-01 09:19:11 | Atualização     : últimos 3 meses -> arquivos anuais [2026]
+2026-10-01 09:19:11 | 
+2026-10-01 09:19:11 | Plano de execução:
+2026-10-01 09:19:11 |   1. sicor_base     dispensada (base histórica completa em data/raw/sicor) SICOR 2019-2025: baixa só os arquivos ausentes
+2026-10-01 09:19:11 |   2. sicor_recente  executa                                              SICOR últimos 3 meses: rebaixa 2026 + complemento + domínios
+2026-10-01 09:19:11 |   3. atlas          executa                                              Atlas Digital de Desastres (RS) — só se a pasta estiver vazia
+2026-10-01 09:19:11 |   4. ibge           executa                                              Municípios do RS (API IBGE) — só se a pasta estiver vazia
+2026-10-01 09:19:11 |   5. etl            executa                                              ETL: staging, dimensões, fatos, CSVs do DW e SQLite
+2026-10-01 09:19:11 | 
+2026-10-01 09:19:11 | Node.js         : v24.15.0
+2026-10-01 09:19:11 | Python          : 3.8.0 (C:\Users\nadin\AppData\Local\Programs\Python\Python38\python.exe)
+2026-10-01 09:19:11 | Trava órfã encontrada (10.6 h) — ignorando.
+2026-10-01 09:19:11 | ------------------------------------------------------------------------------
+2026-10-01 09:19:11 | ETAPA SICOR_RECENTE — SICOR últimos 3 meses: rebaixa 2026 + complemento + domínios
+2026-10-01 09:19:11 | ------------------------------------------------------------------------------
+2026-10-01 09:19:11 | [sicor_recente] tentativa 1/2
+    Diretorio de destino: D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\sicor
+    Total de arquivos: 9
+    Anos de operacoes: 2026-2026
+    
+    [1/9] SICOR_OPERACAO_BASICA_ESTADO_2026.gz
+      Tentativa 1/4... OK (39.2 MB)
+    [2/9] SICOR_COMPLEMENTO_OPERACAO_BASICA.gz
+      Tentativa 1/4... OK (426.0 MB)
+    [3/9] Programa.csv
+      Tentativa 1/4... OK (5.8 KB)
+    [4/9] FonteRecursos.csv
+      Tentativa 1/4... OK (3.3 KB)
+    [5/9] CategoriaEmitente.csv
+      Tentativa 1/4... OK (565.0 B)
+    [6/9] InstrumentoCredito.csv
+      Tentativa 1/4... OK (483.0 B)
+    [7/9] Empreendimento.csv
+      Tentativa 1/4... OK (660.0 KB)
+    [8/9] SubProgramas.csv
+      Tentativa 1/4... OK (4.7 KB)
+    [9/9] SICOR_LISTA_IFS.csv
+      Tentativa 1/4... OK (35.9 KB)
+    
+    ===== Resumo =====
+    Baixados com sucesso: 9
+    Ja existiam (pulados): 0
+    Falharam: 0
+2026-10-01 09:21:39 | [sicor_recente] OK em 2.5 min
+2026-10-01 09:21:39 | ------------------------------------------------------------------------------
+2026-10-01 09:21:39 | ETAPA ATLAS — Atlas Digital de Desastres (RS) — só se a pasta estiver vazia
+2026-10-01 09:21:39 | ------------------------------------------------------------------------------
+2026-10-01 09:21:39 | [atlas] tentativa 1/3
+    Baixando: https://atlasdigital.mdr.gov.br/arquivos/2026/BD_Atlas_1991_2025_v1.1_2026.08.06_Consolidado.csv
+    Coluna de UF: "Sigla_UF" (índice 2)
+    Coluna de data: "Data_Evento" (índice 5)
+    3940 de 76190 linhas (RS, 2019–2025) → D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\atlas_digital\atlas_rs.csv
+2026-10-01 09:23:05 | [atlas] OK em 1.4 min
+2026-10-01 09:23:05 | ------------------------------------------------------------------------------
+2026-10-01 09:23:05 | ETAPA IBGE — Municípios do RS (API IBGE) — só se a pasta estiver vazia
+2026-10-01 09:23:05 | ------------------------------------------------------------------------------
+2026-10-01 09:23:05 | [ibge] tentativa 1/3
+    Baixando: https://servicodados.ibge.gov.br/api/v1/localidades/estados/43/municipios?view=nivelado
+    JSON salvo em: D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\ibge\municipios_rs.json
+    CSV salvo em: D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\ibge\municipios_rs.csv
+    Registros: 497
+    Colunas: municipio-id, municipio-nome, microrregiao-id, microrregiao-nome, mesorregiao-id, mesorregiao-nome, regiao-imediata-id, regiao-imediata-nome, regiao-intermediaria-id, regiao-intermediaria-nome, UF-id, UF-sigla, UF-nome, regiao-id, regiao-sigla, regiao-nome
+2026-10-01 09:23:07 | [ibge] OK em 0.0 min
+2026-10-01 09:23:07 | ------------------------------------------------------------------------------
+2026-10-01 09:23:07 | ETAPA ETL — ETL: staging, dimensões, fatos, CSVs do DW e SQLite
+2026-10-01 09:23:07 | ------------------------------------------------------------------------------
+    pandas 1.5.1 | python 3.8.0
+    Raiz do projeto : D:\Cursos\POS ABI\Projetos Integrados de Analytics
+      SICOR : D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\sicor  -> 16 arquivo(s)
+      Atlas : D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\atlas_digital  -> 1 arquivo(s)
+      IBGE  : D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\ibge  -> 2 arquivo(s)
+    
+    == staging: tabelas de domínio ==
+    [ok] Programa.csv: 40 linhas | ['codigo', 'descricao', 'data_inicio', 'data_fim', 'financiamento']
+    [ok] SubProgramas.csv: 86 linhas | ['codigo_subprograma', 'descricao_subprograma', 'vl_taxa_juros', 'codigo_programa']
+    [ok] FonteRecursos.csv: 37 linhas | ['codigo', 'descricao', 'data_inicio', 'data_fim']
+    [ok] CategoriaEmitente.csv: 6 linhas | ['codigo', 'descricao', 'data_inicio', 'data_fim', 'valor_limite', 'area_maxima']
+    [ok] InstrumentoCredito.csv: 11 linhas | ['codigo', 'descricao', 'sigla']
+    [ok] Empreendimento.csv: 3316 linhas | ['codigo', 'data_inicio', 'data_fim', 'finalidade', 'atividade', 'modalidade', 'produto', 'variedade', 'cesta', 'zoneamento', 'unidade_medida', 'unidade_medida_previsao', 'consorcio', 'cedula_mae', 'cd_tipo_cultura']
+    [ok] SICOR_LISTA_IFS.csv: 650 linhas | ['cnpj_if', 'nome_if', 'segmento_if']
+    [ok] códigos Pronaf: ['1', '721', '783']
+    == staging: operações anuais ==
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2019.gz
+         colunas: ['ref_bacen', 'nu_ordem', 'cnpj_if', 'dt_emissao', 'dt_vencimento', 'cd_inst_credito', 'cd_categ_emitente', 'cd_fonte_recurso', 'cnpj_agente_invest', 'cd_estado', 'cd_ref_bacen_investimento', 'cd_tipo_seguro', 'cd_empreendimento', 'cd_programa', 'cd_tipo_encarg_financ', 'cd_tipo_irrigacao', 'cd_tipo_agricultura', 'cd_fase_ciclo_producao', 'cd_tipo_cultivo', 'cd_tipo_intgr_consor', 'cd_tipo_grao_semente', 'vl_aliq_proagro', 'vl_juros', 'vl_prestacao_investimento', 'vl_prev_prod', 'vl_quantidade', 'vl_receita_bruta_esperada', 'vl_parc_credito', 'vl_rec_proprio', 'vl_perc_risco_stn', 'vl_perc_risco_fundo_const', 'vl_rec_proprio_srv', 'vl_area_financ', 'cd_subprograma', 'vl_produtiv_obtida', 'dt_fim_colheita', 'dt_fim_plantio', 'dt_inic_colheita', 'dt_inic_plantio', 'vl_juros_enc_finan_posfix', 'vl_perc_custo_efet_total', 'cd_contrato_stn', 'cd_cnpj_cadastrante', 'vl_area_informada', 'cd_ciclo_cultivar', 'cd_tipo_solo', 'pc_bonus_car']
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2020.gz
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2021.gz
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2022.gz
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2023.gz
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2024.gz
+    [..] SICOR_OPERACAO_BASICA_ESTADO_2025.gz
+    [ok] operações RS/Pronaf lidas (todas as datas): 1,456,417
+         vl_parc_credito: convenção numérica ponto decimal (1234.56); amostra ['165000.00', '180136.11', '130000.00']
+         dt_emissao: formato de data %d/%m/%Y (100% da amostra); amostra ['02/01/2019', '02/01/2019', '02/01/2019']; NaT: 0.0%
+    [ok] descartes — sem data: 0 | fora da janela: 168,375 | valor<=0: 0
+    [ok] operações RS/Pronaf 2019/2020–2024/2025: 1,288,015 | R$ 73,849,715,583.98
+    == staging: complemento (município IBGE) ==
+    [ok] complemento casado: 1,132,057 de 1,288,015 operações (87.9%); município fora do RS: 0
+    [ok] dim_tempo: 72 meses
+    [ok] dim_municipio: 499
+    [ok] dim_programa: 41
+    [ok] dim_subprograma: 19
+    [ok] dim_fonte_recurso: 38
+    [ok] dim_instituicao_financeira: 650
+    [ok] dim_categoria_emitente: 7
+    [ok] dim_instrumento_credito: 12
+    [ok] dim_finalidade: 5
+    [ok] dim_atividade: 3
+    [ok] dim_modalidade: 62
+    [ok] dim_produto: 511
+    [ok] Atlas: 1 arquivo(s), 3,940 registros brutos
+         Atlas.data_evento: formato de data %d/%m/%Y (100% da amostra); amostra ['06/01/2019', '07/01/2019', '07/01/2019']; NaT: 0.0%
+         Atlas.pepr_agricultura_r: convenção numérica ponto decimal (1234.56); amostra ['11295853.89', '27701065.80', '7129600.85']
+         Atlas: amostra cod_ibge ['4315305', '4311718', '4311759'] | RS (43xxxxx): 3,940 | sem data: 0
+    [ok] Atlas: valores de status: {'Reconhecido': 2941, 'Registro': 767}
+    [ok] Atlas: 3,708 registros RS na janela, 2,941 reconhecidos
+    [ok] eventos por classe: {'Seca': 1525, 'Excesso hídrico': 1155, 'Tempestade': 256, 'Outro': 5}
+    == fatos ==
+    [qualidade] operações sem registro no complemento: 12.1% | município fora do RS: 0.0%
+         amostra de chaves sem complemento: [['508581777', '1', Timestamp('2019-07-01 00:00:00')], ['508581918', '1', Timestamp('2019-07-01 00:00:00')], ['508581994', '1', Timestamp('2019-07-01 00:00:00')]]
+    [ok] fato_contratacao_pronaf: 409,304 linhas | órfãs tempo/município: 0/0
+    [ok] fato_evento_climatico: 2,941 | dim_evento_climatico: 11
+    == carga: SQLite ==
+    [ok] dim_atividade
+    [ok] dim_categoria_emitente
+    [ok] dim_evento_climatico
+    [ok] dim_finalidade
+    [ok] dim_fonte_recurso
+    [ok] dim_instituicao_financeira
+    [ok] dim_instrumento_credito
+    [ok] dim_modalidade
+    [ok] dim_municipio
+    [ok] dim_produto
+    [ok] dim_programa
+    [ok] dim_subprograma
+    [ok] dim_tempo
+    [ok] fato_contratacao_pronaf
+    [ok] fato_evento_climatico
+    
+    Carga concluída: D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\dw_pronaf.db
+    
+    Log salvo em D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\etl_log.txt
+2026-10-01 09:29:05 | [etl] OK em 6.0 min
+2026-10-01 09:29:05 | 
+2026-10-01 09:29:05 | ==============================================================================
+2026-10-01 09:29:05 | RESUMO DA EXECUÇÃO
+2026-10-01 09:29:05 | ==============================================================================
+2026-10-01 09:29:05 |   sicor_base     DISPENSADA            0.0 min
+2026-10-01 09:29:05 |   sicor_recente  OK                    2.5 min
+2026-10-01 09:29:05 |   atlas          OK                    1.4 min
+2026-10-01 09:29:05 |   ibge           OK                    0.0 min
+2026-10-01 09:29:05 |   etl            OK                    6.0 min
+2026-10-01 09:29:05 |   TOTAL                                9.9 min
+2026-10-01 09:29:05 | Data warehouse  : 1.288.015 contratos | R$ 73.849.715.583,98 | 2.941 reconhecimentos
+2026-10-01 09:29:05 | Cluster K-means : ainda não calculado — rode 03_ml_clusters.py uma única vez
+2026-10-01 09:29:05 | Início / fim    : 01/10/2026 09:19:11 -> 01/10/2026 09:29:05
+2026-10-01 09:29:05 | PIPELINE CONCLUÍDO COM SUCESSO

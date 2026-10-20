@@ -1,0 +1,31 @@
+2026-09-30 22:41:03 | ==============================================================================
+2026-09-30 22:41:03 | PIPELINE PRONAF RS — download incremental + ETL
+2026-09-30 22:41:03 | ==============================================================================
+2026-09-30 22:41:03 | Raiz do projeto : D:\Cursos\POS ABI\Projetos Integrados de Analytics
+2026-09-30 22:41:03 | Log desta carga : D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\logs\pipeline_20260930_224103.log
+2026-09-30 22:41:03 | Modo            : execução real
+2026-09-30 22:41:03 | Atualização     : últimos 3 meses -> arquivos anuais [2026]
+2026-09-30 22:41:03 | 
+2026-09-30 22:41:03 | Plano de execução:
+2026-09-30 22:41:03 |   1. sicor_base     dispensada (base histórica completa em data/raw/sicor) SICOR 2019-2025: baixa só os arquivos ausentes
+2026-09-30 22:41:03 |   2. sicor_recente  executa                                              SICOR últimos 3 meses: rebaixa 2026 + complemento + domínios
+2026-09-30 22:41:03 |   3. atlas          executa                                              Atlas Digital de Desastres (RS) — só se a pasta estiver vazia
+2026-09-30 22:41:03 |   4. ibge           executa                                              Municípios do RS (API IBGE) — só se a pasta estiver vazia
+2026-09-30 22:41:03 |   5. etl            executa                                              ETL: staging, dimensões, fatos, CSVs do DW e SQLite
+2026-09-30 22:41:03 | 
+2026-09-30 22:41:03 | Node.js         : v24.15.0
+2026-09-30 22:41:03 | Python          : 3.8.0 (C:\Users\nadin\AppData\Local\Programs\Python\Python38\python.exe)
+2026-09-30 22:41:03 | ------------------------------------------------------------------------------
+2026-09-30 22:41:03 | ETAPA SICOR_RECENTE — SICOR últimos 3 meses: rebaixa 2026 + complemento + domínios
+2026-09-30 22:41:03 | ------------------------------------------------------------------------------
+2026-09-30 22:41:03 | [sicor_recente] tentativa 1/2
+    Diretorio de destino: D:\Cursos\POS ABI\Projetos Integrados de Analytics\data\raw\sicor
+    Total de arquivos: 9
+    Anos de operacoes: 2026-2026
+    
+    [1/9] SICOR_OPERACAO_BASICA_ESTADO_2026.gz
+      Tentativa 1/4... OK (39.2 MB)
+    [2/9] SICOR_COMPLEMENTO_OPERACAO_BASICA.gz
+      Tentativa 1/4... falhou (This operation was aborted)
+      Tentativa 2/4...
+2026-09-30 22:44:19 | [sicor_recente] terminou com código 3221225786
