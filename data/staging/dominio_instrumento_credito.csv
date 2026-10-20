@@ -1,0 +1,12 @@
+codigo,descricao,sigla
+01,Cédula Rural Pignoratícia,CRP
+02,Cédula Rural Hipotecária,CRH
+03,Cédula Rural Pignoratícia e Hipotecária,CRPH
+04,Nota de Crédito Rural,NCR
+99,Termo de Adesão ao Proagro,TAP
+09,Cédula de Produto Rural-CPR (AVAL) - ENCERRADO,CPR
+05,Cédula de Crédito Bancário,CCB
+06,Duplicata Rural,DR
+07,Nota Promissória Rural,NPR
+08,Outros Instrumentos de Crédito Rural,OIC
+10,Contrato de Crédito Rural,CAC

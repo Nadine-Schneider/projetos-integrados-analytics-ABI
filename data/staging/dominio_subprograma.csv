@@ -1,0 +1,87 @@
+codigo_subprograma,descricao_subprograma,vl_taxa_juros,codigo_programa
+0001,Custeio (MCR 10-4),7.50,0001
+0002,Mais Alimentos (MCR 10-5),7.50,0001
+0003,Agroindústria (investimento) (MCR 10-6),8.00,0001
+0004,Crédito Invest Sist Agroflorestais (Pronaf Floresta) MCR10-7,2.00,0001
+0005,Créd Invest Conviv Semiárido (Pronaf Semiárido) MCR 10-8,2.00,0001
+0006,Jovem (MCR 10-10),2.00,0001
+0007,Cotas Partes (MCR 10-12),7.50,0001
+0008,Créd Invest Agroecologia (Pronaf Agroecologia)MCR 10-14,2.00,0001
+0009,Produtivo Orientado (MCR 10-17),2.00,0001
+0010,Financiamento (custeio e comercialização) (MCR 9-2 e 9-3),13.00,0070
+0011,Estocagem ENCERRADO,11.00,0070
+0012,Aquisição de Café (FAC) (MCR 9-4),14.50,0070
+0013,Contratos de Opções e Mercados Futuros(MCR 9-5),13.00,0070
+0014,Capital de Giro p Ind Café Solúvel Torrefação (MCR 9-6),14.50,0070
+0015,Recuperação de Cafezais Danificados (MCR 9-7),13.00,0070
+0016,Composição de Dívidas  ENCERRADO,11.00,0070
+0017,Controle da Doença Vassoura de Bruxa ENCERRADO,4.00,0100
+0018,Enxertia de Cacaueiros Tolerantes ENCERRADO,4.00,0100
+0019,Recomposição de Estande ENCERRADO,4.00,0100
+0020,Investimentos Fixos e Semifixos ENCERRADO,6.75,0110
+0021,Aquisição de Glebas de Terras ENCERRADO,6.75,0110
+0022,Despesas de Custeio e Adicional do Proagro ENCERRADO,6.75,0110
+0023,Integralização Cotas-Partes Cap Social (MCR 11-2),13.50,0151
+0024,Capital de Giro para Cooperativas - Procap-Agro (MCR 11-2),13.50,0151
+0025,Construção e Ampliação de Armazéns - ENCERRADO,8.75,0152
+0026,"Agropecuária Irrigada Sustentável (MCR 11-3-1-""a""-I)",12.50,0152
+0027,"Recuperação de Solos (MCR 11-4-1-""a""-V)",10.50,0153
+0028,"Fomentação Prod Benef Industr Acond Armaz (MCR 11-4-""a""-I)",10.50,0153
+0029,"Fomentação de Ações de Defesa Animal (MCR 11-4-""a""-II)",10.50,0153
+0030,Aquis Tratores Colheitad Implem Associados Novos - ENCERRADO,12.50,0154
+0031,Aquis Tratores Colheitad Implem Associados Usados ENCERRADO,12.50,0154
+0032,"ABC + Recuperação - (MCR 11-7-1-""c""-I)",8.50,0156
+0033,"ABC + Orgânico - (MCR 11-7-1-""c""-II)",8.50,0156
+0034,"ABC + Plantio Direto (MCR 11-7-1-""c""-III)",8.50,0156
+0035,"ABC + Integração - (MCR 11-7-1-""c""-IV)",8.50,0156
+0036,"ABC + Florestas - (MCR 11-7-1-""c""-V)",8.50,0156
+0037,"ABC + Ambiental - (MCR 11-7-1-""c""-VI)",7.00,0156
+0038,"ABC + Manejo de Resíduos - (MCR 11-7-1-""c""-VII)",8.50,0156
+0039,"ABC + Dendê - (MCR 11-7-1-""c""-VIII)",8.50,0156
+0040,Fixação Biológica de Nitrogênio - ENCERRADO,7.00,0156
+0041,Unidade de armazenagem até 12.000 toneladas (MCR 11-9),8.00,0163
+0042,Demais Investimentos (MCR 11-9),9.50,0163
+0043,Plantio Direto ENCERRADO,8.83,0180
+0044,Recuperação de Pastagens ENCERRADO,8.83,0180
+0045,Integ Lav Pec Flor Sist Agroflorestais ENCERRADO,8.83,0180
+0046,Florestas ENCERRADO,8.83,0180
+0047,Trat Dejetos e Resíduos ENCERRADO,8.83,0180
+0048,Fixação Biológica de Nitrogênio ENCERRADO,8.83,0180
+0049,Consolidação da Agricultura Familiar ENCERRADO,4.00,0201
+0050,Combate a Pobreza Rural ENCERRADO,4.00,0201
+0051,Nossa Primeira Terra ENCERRADO,4.00,0201
+0052,Credito de  Investimento - Pronaf Bioeconomia (MCR 10-16),7.50,0001
+0053,Pronaf Industrialização Agroind. Familiar (MCR10-11),7.50,0001
+0054,"Reforma Agrária Beneficiários PNCF, PNRA, PCRF (MCR10-3)",3.00,0001
+0055,Reforma agrária (microcrédito) ENCERRADO,4.00,0001
+0056,Microcrédito Produtivo Rural - Grupo B (MCR 10-13),0.50,0001
+0057,Mulher (MCR 10-9),7.50,0001
+0058,Finan Recursos Fundos Constitucionais ENCERRADO,8.50,0156
+0060,PRONAMP -  ENCERRADO,6.00,0001
+0062,"Açaí, Cacau, Oliveira, Nogueira (MCR 11-7-1-""d""-X) ENCERRADO",7.00,0156
+0059,"Produção em Ambiente Protegido (MCR 11-3-1-""a""-II)",12.50,0152
+0063,Financiamentos com Recursos da Poupança Rural ENCERRADO,8.50,0156
+0064,"Construção e Ampliação de Instalações (MCR 11-4-""a""-IV)",10.50,0153
+9999,FGPP - Res4801 Art 2 ENCERRADO,6.00,0001
+1234,Pronaf ABC+ Bioeconomia Silvicultura ENCERRADO,6.00,0001
+1235,"ABC + Manejo dos Solos - (MCR 11-7-1-""c""-XI)",8.50,0156
+1240,"ABC + Bioinsumos -  (MCR 11-7-1-""c""-IX)",8.50,0156
+6789,FTRA Social  (MCR 4-7),0.50,0201
+6790,FTRA Mais (MCR 4-7),2.50,0201
+6791,FTRA Empreendedor (MCR 4-7),4.00,0201
+0065,"Fruticultura clima temperado Granizo (MCR 11-3-1-""a""-III)",10.50,0152
+0070,Produtores Rurais Enquadrados no PRONAMP (11-5),11.50,0154
+0071,Demais produtores rurais e suas Cooperativas (MCR11-5),12.50,0154
+0081,RenovAgro Recuperação e Conversão,8.50,0222
+0082,RenovAgro Orgânico,10.00,0222
+0083,RenovAgro Sistema Plantio Direto,10.00,0222
+0084,RenovAgro Integração,10.00,0222
+0085,RenovAgro Florestas,10.00,0222
+0086,RenovAgro Ambiental,8.50,0222
+0087,RenovAgro Manejo de Resíduos,10.00,0222
+0088,RenovAgro Dendê,10.00,0222
+0089,RenovAgro Bioinsumos,10.00,0222
+0090,RenovAgro Manejo dos Solos,10.00,0222
+6792,FTRA Jovem (MCR 4-7),0.50,0201
+0066,"Fruticultura clima temperado Granizo (MCR 11-3-1-""a""-III)",12.50,0152
+9001,Eco Invest Brasil - Leilão 2,99.99,0901
