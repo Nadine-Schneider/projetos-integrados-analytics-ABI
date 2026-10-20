@@ -1,0 +1,47 @@
+﻿Categoria;Item;Regra de cálculo / Definição;Fonte;Observação
+Medida;Valor Contratado;Soma de VL_PARC_CREDITO das operações no contexto de filtro;SICOR (fato_contratacao_pronaf);Valor da parcela de crédito contratada, em R$ correntes
+Medida;Qtde Contratos;Contagem de operações (REF_BACEN + NU_ORDEM);SICOR;Cada operação conta uma vez
+Medida;Área Financiada (ha);Soma de VL_AREA_FINANC;SICOR;Zero em operações sem área (investimento em máquinas, comercialização)
+Medida;Ticket Médio;Valor Contratado ÷ Qtde Contratos;Derivada;Média por contrato, não por produtor
+Medida;Taxa Média Ponderada (% a.a.);Σ(VL_JUROS × VL_PARC_CREDITO) ÷ Σ VL_PARC_CREDITO;SICOR;"Ponderada pelo valor; evita média de médias"
+Medida;Valor por Hectare;Valor Contratado ÷ Área Financiada;Derivada;Só faz sentido para custeio agrícola
+Medida;Valor Custeio;Valor Contratado com finalidade = Custeio;SICOR + Empreendimento.csv;Finalidade vem da decomposição do CD_EMPREENDIMENTO
+Medida;% Custeio;Valor Custeio ÷ Valor Contratado;Derivada;
+Medida;Valor Investimento;Valor Contratado com finalidade = Investimento;SICOR + Empreendimento.csv;
+Medida;Municípios Atendidos;Contagem distinta de municípios com contrato, excluindo Não informado;SICOR complemento + IBGE;
+Medida;% Valor com Município;Valor com município identificado ÷ Valor Contratado;SICOR complemento;Indicador de cobertura da georreferência (82,6% no total)
+Medida;Valor Safra Anterior;Valor Contratado da safra imediatamente anterior a cada safra no contexto;Derivada;Vazio para 2019/2020 (fora da janela)
+Medida;Var. % vs Safra Anterior;(Valor Contratado − Valor Safra Anterior) ÷ Valor Safra Anterior;Derivada;
+Medida;Share do Município;Valor do município ÷ Valor Contratado total do RS (incl. Não informado);Derivada;"Participação no mercado total; não soma 100% entre municípios identificados"
+Medida;Top 10 Municípios (% do valor);Σ valor dos 10 maiores municípios ÷ Σ valor de todos os municípios identificados;Derivada;"Excluí Não informado; mede concentração"
+Medida;HHI Municipal;Σ (share_i)² × 10.000 sobre municípios identificados;Derivada;"Índice Herfindahl-Hirschman; < 100 = mercado muito pulverizado"
+Medida;Valor em Safras Afetadas;Valor Contratado com flag_safra_afetada = 1;SICOR + Atlas;Ver regra da flag abaixo
+Medida;% Valor em Safras Afetadas;Valor em Safras Afetadas ÷ Valor Contratado;Derivada;
+Medida;Ticket Médio Safra Afetada;Ticket Médio com flag_safra_afetada = 1;Derivada;
+Medida;Ticket Médio Sem Evento;Ticket Médio com flag_safra_afetada = 0;Derivada;
+Medida;Razão Ticket Afetada/Sem Evento;Ticket Médio Safra Afetada ÷ Ticket Médio Sem Evento;Derivada;> 1 indica contratos maiores em safras afetadas
+Medida;Valor Custeio Safra Seguinte;Valor Custeio da safra seguinte a cada safra no contexto;Derivada;Vazio para 2024/2025
+Medida;Var. % Custeio Safra Seguinte;(Valor Custeio Safra Seguinte − Valor Custeio) ÷ Valor Custeio;Derivada;Usado para relacionar prejuízo climático em t com custeio em t+1
+Medida;Reconhecimentos;Contagem de reconhecimentos federais (status = Reconhecido);Atlas Digital / S2iD (fato_evento_climatico);Um registro por município × evento
+Medida;Municípios com Reconhecimento;Contagem distinta de municípios com reconhecimento;Atlas Digital;
+Medida;Prejuízo Agropecuário (R$);Σ PEPR_AGRICULTURA_R + Σ PEPR_PECUARIA_R;Atlas Digital;Prejuízo privado declarado pelo município no FIDE
+Medida;Afetados por Seca;Σ DH_AFETADOS_SECA_ESTIAGEM;Atlas Digital;Pessoas afetadas declaradas
+Medida;Tamanho (log contratos);LOG10(Qtde Contratos + 1);Derivada;Só para tamanho de marcador em dispersão
+Regra;Janela de análise;Safras 2019/2020 a 2024/2025 (01/07/2019 a 30/06/2025);Projeto;"6 safras completas, 72 meses; Atlas cobre até 2025"
+Regra;Ano-safra;"Julho a junho; mês da safra 1 = julho, 12 = junho";Projeto;Segue o Plano Safra
+Regra;Filtros na origem;"CD_ESTADO = RS; CD_PROGRAMA = 1 (Pronaf); VL_PARC_CREDITO > 0; DT_EMISSAO na janela";ETL (etl_pronaf_rs.py);168.336 operações fora da janela descartadas
+Regra;Flag de safra afetada;1 quando o município teve reconhecimento federal de Seca/Estiagem ou Excesso hídrico (inundação, enxurrada, alagamento, chuvas intensas) com data do evento dentro do ano-safra da emissão;ETL;"Tempestade (granizo, vendaval) e Outro não marcam a flag; aparecem só na fato de eventos"
+Regra;Tipo de evento da safra;Seca | Excesso hídrico | Ambos | Sem evento;ETL;Derivado da flag
+Regra;Grão da fato de contratação;Uma linha por mês × município × subprograma × finalidade × atividade × modalidade × produto × fonte × IF × categoria × instrumento × flag;Modelo dimensional;"409.304 linhas; garante resposta < 3 s"
+Regra;Não informado (município);Operação sem registro no complemento público do Bacen;SICOR complemento;"12,1% das operações e 17,4% do valor; 100% em Comercialização/Industrialização, 13,5% em Custeio, 5,6% em Investimento"
+Regra;Grupos de instituições;"Cooperativas Sicredi, Cresol e Unicred agrupadas pelo nome; demais IFs individuais";Power BI (grupos);Cada cooperativa tem CNPJ próprio no SICOR
+Fonte;SICOR – Operações básicas por estado;Banco Central do Brasil, arquivos anuais 2019–2025 (SICOR_OPERACAO_BASICA_ESTADO_<ano>.gz);https://www.bcb.gov.br/estabilidadefinanceira/micrrural;"Dados abertos; atualização mensal"
+Fonte;SICOR – Complemento;CD_IBGE_MUNICIPIO por operação;Banco Central do Brasil;Cobre apenas operações vinculadas a imóvel
+Fonte;SICOR – Tabelas de domínio;Programa, SubProgramas, FonteRecursos, CategoriaEmitente, InstrumentoCredito, Empreendimento, Lista de IFs;Banco Central do Brasil;
+Fonte;Atlas Digital de Desastres no Brasil;Reconhecimentos federais (S2iD) por município, COBRADE, danos e prejuízos;https://atlasdigital.mdr.gov.br;"Base RS, eventos 2019–2025; só status Reconhecido"
+Fonte;IBGE – Localidades;Nome, mesorregião, região intermediária e imediata dos 497 municípios do RS;API servicodados.ibge.gov.br;
+Limitação;Cobertura municipal;12,1% das operações sem município na origem;SICOR;Análises por município usam 88% das operações (R$ 61 bi)
+Limitação;Prejuízos do Atlas;Valores autodeclarados pelos municípios no FIDE, sem auditoria;Atlas Digital;Usar como ordem de grandeza
+Limitação;Causalidade;"A relação clima × crédito é descritiva (mesmo município entre safras); não há inferência causal";Projeto;
+Controle;Última carga do ETL;Data/hora da execução de etl_pronaf_rs.py;ETL;Preencher a cada atualização
+Controle;Homologação;"Totais por safra conferidos com Sicredi (R$ 6,4 bi 2023/24 → DW 6,08 bi) e Banrisul (R$ 1,5 bi 2022/23 → DW 1,36 bi); diferenças de 5–9% por data de corte e valor liberado vs contratado";Relatório item 5;

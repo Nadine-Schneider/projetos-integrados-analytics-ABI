@@ -1,0 +1,12 @@
+﻿sk_evento_climatico;cobrade;tipologia;grupo_desastre;classe_evento
+1;13214;Chuvas Intensas;Hidrológico;Excesso hídrico
+2;13213;Granizo;Meteorológico;Tempestade
+3;12200;Enxurradas;Hidrológico;Excesso hídrico
+4;13215;Vendavais e Ciclones;Meteorológico;Tempestade
+5;12100;Inundações;Hidrológico;Excesso hídrico
+6;14110;Estiagem e Seca;Climatológico;Seca
+7;13211;Tornado;Meteorológico;Tempestade
+8;15210;Outros;Outros;Outro
+9;12300;Alagamentos;Hidrológico;Excesso hídrico
+10;11340;Movimento de Massa;Hidrológico;Outro
+11;11321;Movimento de Massa;Hidrológico;Outro

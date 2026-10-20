@@ -1,0 +1,73 @@
+﻿sk_tempo;data;ano;mes;nome_mes;trimestre;semestre;ano_safra;mes_safra;periodo_safra;ano_mes
+1;2019-07-01;2019;7;Jul;3;2;2019/2020;1;Abertura do Plano Safra (jul-ago);201907
+2;2019-08-01;2019;8;Ago;3;2;2019/2020;2;Abertura do Plano Safra (jul-ago);201908
+3;2019-09-01;2019;9;Set;3;2;2019/2020;3;Plantio de verão (set-nov);201909
+4;2019-10-01;2019;10;Out;4;2;2019/2020;4;Plantio de verão (set-nov);201910
+5;2019-11-01;2019;11;Nov;4;2;2019/2020;5;Plantio de verão (set-nov);201911
+6;2019-12-01;2019;12;Dez;4;2;2019/2020;6;Condução/colheita (dez-mar);201912
+7;2020-01-01;2020;1;Jan;1;1;2019/2020;7;Condução/colheita (dez-mar);202001
+8;2020-02-01;2020;2;Fev;1;1;2019/2020;8;Condução/colheita (dez-mar);202002
+9;2020-03-01;2020;3;Mar;1;1;2019/2020;9;Condução/colheita (dez-mar);202003
+10;2020-04-01;2020;4;Abr;2;1;2019/2020;10;Inverno/encerramento (abr-jun);202004
+11;2020-05-01;2020;5;Mai;2;1;2019/2020;11;Inverno/encerramento (abr-jun);202005
+12;2020-06-01;2020;6;Jun;2;1;2019/2020;12;Inverno/encerramento (abr-jun);202006
+13;2020-07-01;2020;7;Jul;3;2;2020/2021;1;Abertura do Plano Safra (jul-ago);202007
+14;2020-08-01;2020;8;Ago;3;2;2020/2021;2;Abertura do Plano Safra (jul-ago);202008
+15;2020-09-01;2020;9;Set;3;2;2020/2021;3;Plantio de verão (set-nov);202009
+16;2020-10-01;2020;10;Out;4;2;2020/2021;4;Plantio de verão (set-nov);202010
+17;2020-11-01;2020;11;Nov;4;2;2020/2021;5;Plantio de verão (set-nov);202011
+18;2020-12-01;2020;12;Dez;4;2;2020/2021;6;Condução/colheita (dez-mar);202012
+19;2021-01-01;2021;1;Jan;1;1;2020/2021;7;Condução/colheita (dez-mar);202101
+20;2021-02-01;2021;2;Fev;1;1;2020/2021;8;Condução/colheita (dez-mar);202102
+21;2021-03-01;2021;3;Mar;1;1;2020/2021;9;Condução/colheita (dez-mar);202103
+22;2021-04-01;2021;4;Abr;2;1;2020/2021;10;Inverno/encerramento (abr-jun);202104
+23;2021-05-01;2021;5;Mai;2;1;2020/2021;11;Inverno/encerramento (abr-jun);202105
+24;2021-06-01;2021;6;Jun;2;1;2020/2021;12;Inverno/encerramento (abr-jun);202106
+25;2021-07-01;2021;7;Jul;3;2;2021/2022;1;Abertura do Plano Safra (jul-ago);202107
+26;2021-08-01;2021;8;Ago;3;2;2021/2022;2;Abertura do Plano Safra (jul-ago);202108
+27;2021-09-01;2021;9;Set;3;2;2021/2022;3;Plantio de verão (set-nov);202109
+28;2021-10-01;2021;10;Out;4;2;2021/2022;4;Plantio de verão (set-nov);202110
+29;2021-11-01;2021;11;Nov;4;2;2021/2022;5;Plantio de verão (set-nov);202111
+30;2021-12-01;2021;12;Dez;4;2;2021/2022;6;Condução/colheita (dez-mar);202112
+31;2022-01-01;2022;1;Jan;1;1;2021/2022;7;Condução/colheita (dez-mar);202201
+32;2022-02-01;2022;2;Fev;1;1;2021/2022;8;Condução/colheita (dez-mar);202202
+33;2022-03-01;2022;3;Mar;1;1;2021/2022;9;Condução/colheita (dez-mar);202203
+34;2022-04-01;2022;4;Abr;2;1;2021/2022;10;Inverno/encerramento (abr-jun);202204
+35;2022-05-01;2022;5;Mai;2;1;2021/2022;11;Inverno/encerramento (abr-jun);202205
+36;2022-06-01;2022;6;Jun;2;1;2021/2022;12;Inverno/encerramento (abr-jun);202206
+37;2022-07-01;2022;7;Jul;3;2;2022/2023;1;Abertura do Plano Safra (jul-ago);202207
+38;2022-08-01;2022;8;Ago;3;2;2022/2023;2;Abertura do Plano Safra (jul-ago);202208
+39;2022-09-01;2022;9;Set;3;2;2022/2023;3;Plantio de verão (set-nov);202209
+40;2022-10-01;2022;10;Out;4;2;2022/2023;4;Plantio de verão (set-nov);202210
+41;2022-11-01;2022;11;Nov;4;2;2022/2023;5;Plantio de verão (set-nov);202211
+42;2022-12-01;2022;12;Dez;4;2;2022/2023;6;Condução/colheita (dez-mar);202212
+43;2023-01-01;2023;1;Jan;1;1;2022/2023;7;Condução/colheita (dez-mar);202301
+44;2023-02-01;2023;2;Fev;1;1;2022/2023;8;Condução/colheita (dez-mar);202302
+45;2023-03-01;2023;3;Mar;1;1;2022/2023;9;Condução/colheita (dez-mar);202303
+46;2023-04-01;2023;4;Abr;2;1;2022/2023;10;Inverno/encerramento (abr-jun);202304
+47;2023-05-01;2023;5;Mai;2;1;2022/2023;11;Inverno/encerramento (abr-jun);202305
+48;2023-06-01;2023;6;Jun;2;1;2022/2023;12;Inverno/encerramento (abr-jun);202306
+49;2023-07-01;2023;7;Jul;3;2;2023/2024;1;Abertura do Plano Safra (jul-ago);202307
+50;2023-08-01;2023;8;Ago;3;2;2023/2024;2;Abertura do Plano Safra (jul-ago);202308
+51;2023-09-01;2023;9;Set;3;2;2023/2024;3;Plantio de verão (set-nov);202309
+52;2023-10-01;2023;10;Out;4;2;2023/2024;4;Plantio de verão (set-nov);202310
+53;2023-11-01;2023;11;Nov;4;2;2023/2024;5;Plantio de verão (set-nov);202311
+54;2023-12-01;2023;12;Dez;4;2;2023/2024;6;Condução/colheita (dez-mar);202312
+55;2024-01-01;2024;1;Jan;1;1;2023/2024;7;Condução/colheita (dez-mar);202401
+56;2024-02-01;2024;2;Fev;1;1;2023/2024;8;Condução/colheita (dez-mar);202402
+57;2024-03-01;2024;3;Mar;1;1;2023/2024;9;Condução/colheita (dez-mar);202403
+58;2024-04-01;2024;4;Abr;2;1;2023/2024;10;Inverno/encerramento (abr-jun);202404
+59;2024-05-01;2024;5;Mai;2;1;2023/2024;11;Inverno/encerramento (abr-jun);202405
+60;2024-06-01;2024;6;Jun;2;1;2023/2024;12;Inverno/encerramento (abr-jun);202406
+61;2024-07-01;2024;7;Jul;3;2;2024/2025;1;Abertura do Plano Safra (jul-ago);202407
+62;2024-08-01;2024;8;Ago;3;2;2024/2025;2;Abertura do Plano Safra (jul-ago);202408
+63;2024-09-01;2024;9;Set;3;2;2024/2025;3;Plantio de verão (set-nov);202409
+64;2024-10-01;2024;10;Out;4;2;2024/2025;4;Plantio de verão (set-nov);202410
+65;2024-11-01;2024;11;Nov;4;2;2024/2025;5;Plantio de verão (set-nov);202411
+66;2024-12-01;2024;12;Dez;4;2;2024/2025;6;Condução/colheita (dez-mar);202412
+67;2025-01-01;2025;1;Jan;1;1;2024/2025;7;Condução/colheita (dez-mar);202501
+68;2025-02-01;2025;2;Fev;1;1;2024/2025;8;Condução/colheita (dez-mar);202502
+69;2025-03-01;2025;3;Mar;1;1;2024/2025;9;Condução/colheita (dez-mar);202503
+70;2025-04-01;2025;4;Abr;2;1;2024/2025;10;Inverno/encerramento (abr-jun);202504
+71;2025-05-01;2025;5;Mai;2;1;2024/2025;11;Inverno/encerramento (abr-jun);202505
+72;2025-06-01;2025;6;Jun;2;1;2024/2025;12;Inverno/encerramento (abr-jun);202506

@@ -1,0 +1,500 @@
+﻿sk_municipio;cd_municipio;nome_municipio;mesorregiao;regiao_intermediaria;regiao_imediata;uf;cluster_kmeans
+1;4300034;Aceguá;Sudoeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+2;4300059;Água Santa;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+3;4300109;Agudo;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+4;4300208;Ajuricaba;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+5;4300307;Alecrim;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+6;4300406;Alegrete;Sudoeste Rio-grandense;Uruguaiana;Uruguaiana;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+7;4300455;Alegria;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+8;4300471;Almirante Tamandaré do Sul;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+9;4300505;Alpestre;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+10;4300554;Alto Alegre;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+11;4300570;Alto Feliz;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+12;4300604;Alvorada;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Não se aplica
+13;4300638;Amaral Ferrador;Sudeste Rio-grandense;Porto Alegre;Camaquã;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+14;4300646;Ametista do Sul;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+15;4300661;André da Rocha;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+16;4300703;Anta Gorda;Nordeste Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+17;4300802;Antônio Prado;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+18;4300851;Arambaré;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;Sem cluster (poucos contratos)
+19;4300877;Araricá;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+20;4300901;Aratiba;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+21;4301008;Arroio do Meio;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+22;4301057;Arroio do Sal;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;Sem cluster (poucos contratos)
+23;4301073;Arroio do Padre;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+24;4301107;Arroio dos Ratos;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+25;4301206;Arroio do Tigre;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+26;4301305;Arroio Grande;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+27;4301404;Arvorezinha;Nordeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+28;4301503;Augusto Pestana;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+29;4301552;Áurea;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+30;4301602;Bagé;Sudoeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+31;4301636;Balneário Pinhal;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+32;4301651;Barão;Metropolitana de Porto Alegre;Caxias do Sul;Bento Gonçalves;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+33;4301701;Barão de Cotegipe;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+34;4301750;Barão do Triunfo;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+35;4301800;Barracão;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+36;4301859;Barra do Guarita;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+37;4301875;Barra do Quaraí;Sudoeste Rio-grandense;Uruguaiana;Uruguaiana;RS;Sem cluster (poucos contratos)
+38;4301909;Barra do Ribeiro;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+39;4301925;Barra do Rio Azul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+40;4301958;Barra Funda;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+41;4302006;Barros Cassal;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+42;4302055;Benjamin Constant do Sul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+43;4302105;Bento Gonçalves;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+44;4302154;Boa Vista das Missões;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+45;4302204;Boa Vista do Buricá;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+46;4302220;Boa Vista do Cadeado;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+47;4302238;Boa Vista do Incra;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+48;4302253;Boa Vista do Sul;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+49;4302303;Bom Jesus;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+50;4302352;Bom Princípio;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+51;4302378;Bom Progresso;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+52;4302402;Bom Retiro do Sul;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+53;4302451;Boqueirão do Leão;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+54;4302501;Bossoroca;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+55;4302584;Bozano;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+56;4302600;Braga;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+57;4302659;Brochier;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+58;4302709;Butiá;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+59;4302808;Caçapava do Sul;Sudeste Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+60;4302907;Cacequi;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+61;4303004;Cachoeira do Sul;Centro Oriental Rio-grandense;Santa Maria;Cachoeira do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+62;4303103;Cachoeirinha;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Não se aplica
+63;4303202;Cacique Doble;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+64;4303301;Caibaté;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+65;4303400;Caiçara;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+66;4303509;Camaquã;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+67;4303558;Camargo;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+68;4303608;Cambará do Sul;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+69;4303673;Campestre da Serra;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+70;4303707;Campina das Missões;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+71;4303806;Campinas do Sul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+72;4303905;Campo Bom;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+73;4304002;Campo Novo;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+74;4304101;Campos Borges;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+75;4304200;Candelária;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+76;4304309;Cândido Godói;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+77;4304358;Candiota;Sudeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+78;4304408;Canela;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;Sem cluster (poucos contratos)
+79;4304507;Canguçu;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+80;4304606;Canoas;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+81;4304614;Canudos do Vale;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+82;4304622;Capão Bonito do Sul;Nordeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+83;4304630;Capão da Canoa;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+84;4304655;Capão do Cipó;Centro Ocidental Rio-grandense;Santa Maria;Santiago;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+85;4304663;Capão do Leão;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+86;4304671;Capivari do Sul;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+87;4304689;Capela de Santana;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C3 · Mercado médio · ticket alto · baixa exposição climática · bancos
+88;4304697;Capitão;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+89;4304705;Carazinho;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+90;4304713;Caraá;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+91;4304804;Carlos Barbosa;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+92;4304853;Carlos Gomes;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+93;4304903;Casca;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+94;4304952;Caseiros;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+95;4305009;Catuípe;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+96;4305108;Caxias do Sul;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+97;4305116;Centenário;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+98;4305124;Cerrito;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+99;4305132;Cerro Branco;Centro Oriental Rio-grandense;Santa Maria;Cachoeira do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+100;4305157;Cerro Grande;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+101;4305173;Cerro Grande do Sul;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+102;4305207;Cerro Largo;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+103;4305306;Chapada;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+104;4305355;Charqueadas;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;Sem cluster (poucos contratos)
+105;4305371;Charrua;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+106;4305405;Chiapetta;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+107;4305439;Chuí;Sudeste Rio-grandense;Pelotas;Pelotas;RS;Sem cluster (poucos contratos)
+108;4305447;Chuvisca;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+109;4305454;Cidreira;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+110;4305504;Ciríaco;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+111;4305587;Colinas;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+112;4305603;Colorado;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+113;4305702;Condor;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+114;4305801;Constantina;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+115;4305835;Coqueiro Baixo;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+116;4305850;Coqueiros do Sul;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+117;4305871;Coronel Barros;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+118;4305900;Coronel Bicaco;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+119;4305934;Coronel Pilar;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+120;4305959;Cotiporã;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+121;4305975;Coxilha;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+122;4306007;Crissiumal;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+123;4306056;Cristal;Sudeste Rio-grandense;Porto Alegre;Camaquã;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+124;4306072;Cristal do Sul;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+125;4306106;Cruz Alta;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+126;4306130;Cruzaltense;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+127;4306205;Cruzeiro do Sul;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+128;4306304;David Canabarro;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+129;4306320;Derrubadas;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+130;4306353;Dezesseis de Novembro;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+131;4306379;Dilermando de Aguiar;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+132;4306403;Dois Irmãos;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+133;4306429;Dois Irmãos das Missões;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+134;4306452;Dois Lajeados;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+135;4306502;Dom Feliciano;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+136;4306551;Dom Pedro de Alcântara;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+137;4306601;Dom Pedrito;Sudoeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+138;4306700;Dona Francisca;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+139;4306734;Doutor Maurício Cardoso;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+140;4306759;Doutor Ricardo;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+141;4306767;Eldorado do Sul;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+142;4306809;Encantado;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+143;4306908;Encruzilhada do Sul;Sudeste Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+144;4306924;Engenho Velho;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+145;4306932;Entre-Ijuís;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+146;4306957;Entre Rios do Sul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+147;4306973;Erebango;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+148;4307005;Erechim;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+149;4307054;Ernestina;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+150;4307104;Herval;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+151;4307203;Erval Grande;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+152;4307302;Erval Seco;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+153;4307401;Esmeralda;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+154;4307450;Esperança do Sul;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+155;4307500;Espumoso;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+156;4307559;Estação;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+157;4307609;Estância Velha;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+158;4307708;Esteio;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+159;4307807;Estrela;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+160;4307815;Estrela Velha;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+161;4307831;Eugênio de Castro;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+162;4307864;Fagundes Varela;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+163;4307906;Farroupilha;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C3 · Mercado médio · ticket alto · baixa exposição climática · bancos
+164;4308003;Faxinal do Soturno;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+165;4308052;Faxinalzinho;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+166;4308078;Fazenda Vilanova;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+167;4308102;Feliz;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+168;4308201;Flores da Cunha;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+169;4308250;Floriano Peixoto;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+170;4308300;Fontoura Xavier;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+171;4308409;Formigueiro;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+172;4308433;Forquetinha;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+173;4308458;Fortaleza dos Valos;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+174;4308508;Frederico Westphalen;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+175;4308607;Garibaldi;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+176;4308656;Garruchos;Sudoeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+177;4308706;Gaurama;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+178;4308805;General Câmara;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+179;4308854;Gentil;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+180;4308904;Getúlio Vargas;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+181;4309001;Giruá;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+182;4309050;Glorinha;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+183;4309100;Gramado;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+184;4309126;Gramado dos Loureiros;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+185;4309159;Gramado Xavier;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+186;4309209;Gravataí;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+187;4309258;Guabiju;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+188;4309308;Guaíba;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+189;4309407;Guaporé;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+190;4309506;Guarani das Missões;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+191;4309555;Harmonia;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+192;4309571;Herveiras;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+193;4309605;Horizontina;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+194;4309654;Hulha Negra;Sudoeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+195;4309704;Humaitá;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+196;4309753;Ibarama;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+197;4309803;Ibiaçá;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+198;4309902;Ibiraiaras;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+199;4309951;Ibirapuitã;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+200;4310009;Ibirubá;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+201;4310108;Igrejinha;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+202;4310207;Ijuí;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+203;4310306;Ilópolis;Nordeste Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+204;4310330;Imbé;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+205;4310363;Imigrante;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+206;4310405;Independência;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+207;4310413;Inhacorá;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+208;4310439;Ipê;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+209;4310462;Ipiranga do Sul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+210;4310504;Iraí;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+211;4310538;Itaara;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+212;4310553;Itacurubi;Centro Ocidental Rio-grandense;Santa Maria;Santiago;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+213;4310579;Itapuca;Nordeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+214;4310603;Itaqui;Sudoeste Rio-grandense;Uruguaiana;São Borja;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+215;4310652;Itati;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+216;4310702;Itatiba do Sul;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+217;4310751;Ivorá;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+218;4310801;Ivoti;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+219;4310850;Jaboticaba;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+220;4310876;Jacuizinho;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+221;4310900;Jacutinga;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+222;4311007;Jaguarão;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+223;4311106;Jaguari;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+224;4311122;Jaquirana;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+225;4311130;Jari;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+226;4311155;Jóia;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+227;4311205;Júlio de Castilhos;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+228;4311239;Lagoa Bonita do Sul;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+229;4311254;Lagoão;Noroeste Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+230;4311270;Lagoa dos Três Cantos;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+231;4311304;Lagoa Vermelha;Nordeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+232;4311403;Lajeado;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+233;4311429;Lajeado do Bugre;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+234;4311502;Lavras do Sul;Sudoeste Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+235;4311601;Liberato Salzano;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+236;4311627;Lindolfo Collor;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+237;4311643;Linha Nova;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+238;4311700;Machadinho;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+239;4311718;Maçambará;Sudoeste Rio-grandense;Uruguaiana;São Borja;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+240;4311734;Mampituba;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+241;4311759;Manoel Viana;Sudoeste Rio-grandense;Uruguaiana;Uruguaiana;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+242;4311775;Maquiné;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+243;4311791;Maratá;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+244;4311809;Marau;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+245;4311908;Marcelino Ramos;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+246;4311981;Mariana Pimentel;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+247;4312005;Mariano Moro;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+248;4312054;Marques de Souza;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+249;4312104;Mata;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+250;4312138;Mato Castelhano;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+251;4312153;Mato Leitão;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+252;4312179;Mato Queimado;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+253;4312203;Maximiliano de Almeida;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+254;4312252;Minas do Leão;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;Sem cluster (poucos contratos)
+255;4312302;Miraguaí;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+256;4312351;Montauri;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+257;4312377;Monte Alegre dos Campos;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+258;4312385;Monte Belo do Sul;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+259;4312401;Montenegro;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+260;4312427;Mormaço;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+261;4312443;Morrinhos do Sul;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+262;4312450;Morro Redondo;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+263;4312476;Morro Reuter;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+264;4312500;Mostardas;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+265;4312609;Muçum;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+266;4312617;Muitos Capões;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+267;4312625;Muliterno;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+268;4312658;Não-Me-Toque;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+269;4312674;Nicolau Vergueiro;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+270;4312708;Nonoai;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+271;4312757;Nova Alvorada;Nordeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+272;4312807;Nova Araçá;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+273;4312906;Nova Bassano;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+274;4312955;Nova Boa Vista;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+275;4313003;Nova Bréscia;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+276;4313011;Nova Candelária;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+277;4313037;Nova Esperança do Sul;Centro Ocidental Rio-grandense;Santa Maria;Santiago;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+278;4313060;Nova Hartz;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+279;4313086;Nova Pádua;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+280;4313102;Nova Palma;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+281;4313201;Nova Petrópolis;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+282;4313300;Nova Prata;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+283;4313334;Nova Ramada;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+284;4313359;Nova Roma do Sul;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+285;4313375;Nova Santa Rita;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+286;4313391;Novo Cabrais;Centro Oriental Rio-grandense;Santa Maria;Cachoeira do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+287;4313409;Novo Hamburgo;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+288;4313425;Novo Machado;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+289;4313441;Novo Tiradentes;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+290;4313466;Novo Xingu;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+291;4313490;Novo Barreiro;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+292;4313508;Osório;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+293;4313607;Paim Filho;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+294;4313656;Palmares do Sul;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C3 · Mercado médio · ticket alto · baixa exposição climática · bancos
+295;4313706;Palmeira das Missões;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+296;4313805;Palmitinho;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+297;4313904;Panambi;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+298;4313953;Pantano Grande;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+299;4314001;Paraí;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+300;4314027;Paraíso do Sul;Centro Oriental Rio-grandense;Santa Maria;Cachoeira do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+301;4314035;Pareci Novo;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+302;4314050;Parobé;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+303;4314068;Passa Sete;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+304;4314076;Passo do Sobrado;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+305;4314100;Passo Fundo;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+306;4314134;Paulo Bento;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+307;4314159;Paverama;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+308;4314175;Pedras Altas;Sudeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+309;4314209;Pedro Osório;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+310;4314308;Pejuçara;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+311;4314407;Pelotas;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+312;4314423;Picada Café;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+313;4314456;Pinhal;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+314;4314464;Pinhal da Serra;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+315;4314472;Pinhal Grande;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+316;4314498;Pinheirinho do Vale;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+317;4314506;Pinheiro Machado;Sudeste Rio-grandense;Pelotas;Bagé;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+318;4314548;Pinto Bandeira;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+319;4314555;Pirapó;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+320;4314605;Piratini;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+321;4314704;Planalto;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+322;4314753;Poço das Antas;Metropolitana de Porto Alegre;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+323;4314779;Pontão;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+324;4314787;Ponte Preta;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+325;4314803;Portão;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+326;4314902;Porto Alegre;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+327;4315008;Porto Lucena;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+328;4315057;Porto Mauá;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+329;4315073;Porto Vera Cruz;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+330;4315107;Porto Xavier;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+331;4315131;Pouso Novo;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+332;4315149;Presidente Lucena;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+333;4315156;Progresso;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+334;4315172;Protásio Alves;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+335;4315206;Putinga;Nordeste Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+336;4315305;Quaraí;Sudoeste Rio-grandense;Uruguaiana;Santana do Livramento;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+337;4315313;Quatro Irmãos;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+338;4315321;Quevedos;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+339;4315354;Quinze de Novembro;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+340;4315404;Redentora;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+341;4315453;Relvado;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+342;4315503;Restinga Sêca;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+343;4315552;Rio dos Índios;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+344;4315602;Rio Grande;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+345;4315701;Rio Pardo;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+346;4315750;Riozinho;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;Sem cluster (poucos contratos)
+347;4315800;Roca Sales;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+348;4315909;Rodeio Bonito;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+349;4315958;Rolador;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+350;4316006;Rolante;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+351;4316105;Ronda Alta;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+352;4316204;Rondinha;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+353;4316303;Roque Gonzales;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+354;4316402;Rosário do Sul;Sudoeste Rio-grandense;Uruguaiana;Santana do Livramento;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+355;4316428;Sagrada Família;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+356;4316436;Saldanha Marinho;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+357;4316451;Salto do Jacuí;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+358;4316477;Salvador das Missões;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+359;4316501;Salvador do Sul;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+360;4316600;Sananduva;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+361;4316709;Santa Bárbara do Sul;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+362;4316733;Santa Cecília do Sul;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+363;4316758;Santa Clara do Sul;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+364;4316808;Santa Cruz do Sul;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+365;4316907;Santa Maria;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+366;4316956;Santa Maria do Herval;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+367;4316972;Santa Margarida do Sul;Sudoeste Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+368;4317004;Santana da Boa Vista;Sudeste Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+369;4317103;Sant'Ana do Livramento;Sudoeste Rio-grandense;Uruguaiana;Santana do Livramento;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+370;4317202;Santa Rosa;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+371;4317251;Santa Tereza;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+372;4317301;Santa Vitória do Palmar;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+373;4317400;Santiago;Centro Ocidental Rio-grandense;Santa Maria;Santiago;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+374;4317509;Santo Ângelo;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+375;4317558;Santo Antônio do Palma;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+376;4317608;Santo Antônio da Patrulha;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+377;4317707;Santo Antônio das Missões;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+378;4317756;Santo Antônio do Planalto;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+379;4317806;Santo Augusto;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+380;4317905;Santo Cristo;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+381;4317954;Santo Expedito do Sul;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+382;4318002;São Borja;Sudoeste Rio-grandense;Uruguaiana;São Borja;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+383;4318051;São Domingos do Sul;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+384;4318101;São Francisco de Assis;Sudoeste Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+385;4318200;São Francisco de Paula;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+386;4318309;São Gabriel;Sudoeste Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+387;4318408;São Jerônimo;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+388;4318424;São João da Urtiga;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+389;4318432;São João do Polêsine;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+390;4318440;São Jorge;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+391;4318457;São José das Missões;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+392;4318465;São José do Herval;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+393;4318481;São José do Hortêncio;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+394;4318499;São José do Inhacorá;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+395;4318507;São José do Norte;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+396;4318606;São José do Ouro;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+397;4318614;São José do Sul;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+398;4318622;São José dos Ausentes;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+399;4318705;São Leopoldo;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+400;4318804;São Lourenço do Sul;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+401;4318903;São Luiz Gonzaga;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+402;4319000;São Marcos;Nordeste Rio-grandense;Caxias do Sul;Caxias do Sul;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+403;4319109;São Martinho;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+404;4319125;São Martinho da Serra;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+405;4319158;São Miguel das Missões;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+406;4319208;São Nicolau;Noroeste Rio-grandense;Ijuí;São Luiz Gonzaga;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+407;4319307;São Paulo das Missões;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+408;4319356;São Pedro da Serra;Metropolitana de Porto Alegre;Porto Alegre;Montenegro;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+409;4319364;São Pedro das Missões;Noroeste Rio-grandense;Passo Fundo;Palmeira das Missões;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+410;4319372;São Pedro do Butiá;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+411;4319406;São Pedro do Sul;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+412;4319505;São Sebastião do Caí;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+413;4319604;São Sepé;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+414;4319703;São Valentim;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+415;4319711;São Valentim do Sul;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+416;4319737;São Valério do Sul;Noroeste Rio-grandense;Ijuí;Ijuí;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+417;4319752;São Vendelino;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+418;4319802;São Vicente do Sul;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+419;4319901;Sapiranga;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;Sem cluster (poucos contratos)
+420;4320008;Sapucaia do Sul;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;Sem cluster (poucos contratos)
+421;4320107;Sarandi;Noroeste Rio-grandense;Passo Fundo;Carazinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+422;4320206;Seberi;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+423;4320230;Sede Nova;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+424;4320263;Segredo;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+425;4320305;Selbach;Noroeste Rio-grandense;Passo Fundo;Cruz Alta;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+426;4320321;Senador Salgado Filho;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+427;4320354;Sentinela do Sul;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C3 · Mercado médio · ticket alto · baixa exposição climática · bancos
+428;4320404;Serafina Corrêa;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+429;4320453;Sério;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+430;4320503;Sertão;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+431;4320552;Sertão Santana;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+432;4320578;Sete de Setembro;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+433;4320602;Severiano de Almeida;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+434;4320651;Silveira Martins;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+435;4320677;Sinimbu;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+436;4320701;Sobradinho;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+437;4320800;Soledade;Noroeste Rio-grandense;Passo Fundo;Soledade;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+438;4320859;Tabaí;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+439;4320909;Tapejara;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+440;4321006;Tapera;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+441;4321105;Tapes;Metropolitana de Porto Alegre;Porto Alegre;Camaquã;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+442;4321204;Taquara;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+443;4321303;Taquari;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+444;4321329;Taquaruçu do Sul;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+445;4321352;Tavares;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+446;4321402;Tenente Portela;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+447;4321436;Terra de Areia;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+448;4321451;Teutônia;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+449;4321469;Tio Hugo;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+450;4321477;Tiradentes do Sul;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+451;4321493;Toropi;Centro Ocidental Rio-grandense;Santa Maria;Santa Maria;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+452;4321501;Torres;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+453;4321600;Tramandaí;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+454;4321626;Travesseiro;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+455;4321634;Três Arroios;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+456;4321667;Três Cachoeiras;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+457;4321709;Três Coroas;Metropolitana de Porto Alegre;Porto Alegre;Taquara - Parobé - Igrejinha;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+458;4321808;Três de Maio;Noroeste Rio-grandense;Ijuí;Três de Maio;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+459;4321832;Três Forquilhas;Metropolitana de Porto Alegre;Porto Alegre;Torres;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+460;4321857;Três Palmeiras;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+461;4321907;Três Passos;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+462;4321956;Trindade do Sul;Noroeste Rio-grandense;Passo Fundo;Nonoai;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+463;4322004;Triunfo;Metropolitana de Porto Alegre;Porto Alegre;Charqueadas - Triunfo - São Jerônimo;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+464;4322103;Tucunduva;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+465;4322152;Tunas;Noroeste Rio-grandense;Santa Cruz do Sul - Lajeado;Sobradinho;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+466;4322186;Tupanci do Sul;Noroeste Rio-grandense;Passo Fundo;Lagoa Vermelha;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+467;4322202;Tupanciretã;Centro Ocidental Rio-grandense;Passo Fundo;Cruz Alta;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+468;4322251;Tupandi;Metropolitana de Porto Alegre;Porto Alegre;Novo Hamburgo - São Leopoldo;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+469;4322301;Tuparendi;Noroeste Rio-grandense;Ijuí;Santa Rosa;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+470;4322327;Turuçu;Sudeste Rio-grandense;Pelotas;Pelotas;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+471;4322343;Ubiretama;Noroeste Rio-grandense;Ijuí;Cerro Largo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+472;4322350;União da Serra;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+473;4322376;Unistalda;Centro Ocidental Rio-grandense;Santa Maria;Santiago;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+474;4322400;Uruguaiana;Sudoeste Rio-grandense;Uruguaiana;Uruguaiana;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+475;4322509;Vacaria;Nordeste Rio-grandense;Caxias do Sul;Vacaria;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+476;4322525;Vale Verde;Metropolitana de Porto Alegre;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+477;4322533;Vale do Sol;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+478;4322541;Vale Real;Metropolitana de Porto Alegre;Caxias do Sul;Caxias do Sul;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+479;4322558;Vanini;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+480;4322608;Venâncio Aires;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+481;4322707;Vera Cruz;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Santa Cruz do Sul;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+482;4322806;Veranópolis;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+483;4322855;Vespasiano Corrêa;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Encantado;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+484;4322905;Viadutos;Noroeste Rio-grandense;Passo Fundo;Erechim;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+485;4323002;Viamão;Metropolitana de Porto Alegre;Porto Alegre;Porto Alegre;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+486;4323101;Vicente Dutra;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+487;4323200;Victor Graeff;Noroeste Rio-grandense;Passo Fundo;Passo Fundo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+488;4323309;Vila Flores;Nordeste Rio-grandense;Caxias do Sul;Bento Gonçalves;RS;C4 · Pequeno mercado · ticket baixo · pecuária · cooperativas
+489;4323358;Vila Lângaro;Noroeste Rio-grandense;Passo Fundo;Tapejara - Sananduva;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+490;4323408;Vila Maria;Noroeste Rio-grandense;Passo Fundo;Marau;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+491;4323457;Vila Nova do Sul;Centro Ocidental Rio-grandense;Santa Maria;São Gabriel - Caçapava do Sul;RS;C0 · Mercado médio · ticket alto · custeio agrícola · alta exposição climática
+492;4323507;Vista Alegre;Noroeste Rio-grandense;Passo Fundo;Frederico Westphalen;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+493;4323606;Vista Alegre do Prata;Nordeste Rio-grandense;Caxias do Sul;Nova Prata - Guaporé;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+494;4323705;Vista Gaúcha;Noroeste Rio-grandense;Ijuí;Três Passos;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+495;4323754;Vitória das Missões;Noroeste Rio-grandense;Ijuí;Santo Ângelo;RS;C1 · Grande mercado · ticket baixo · custeio agrícola · alta exposição climática · cooperativas
+496;4323770;Westfália;Centro Oriental Rio-grandense;Santa Cruz do Sul - Lajeado;Lajeado;RS;C2 · Mercado médio · ticket alto · investimento · bancos
+497;4323804;Xangri-lá;Metropolitana de Porto Alegre;Porto Alegre;Tramandaí - Osório;RS;Sem cluster (poucos contratos)
+498;ND;Não informado;;;;RS;Não se aplica
+499;FORA_RS;Município fora do RS;;;;Outra;Não se aplica
