@@ -1,0 +1,7 @@
+﻿metrica;treino;teste;treino_txt;teste_txt;interpretacao
+Municípios;370,0000;93,0000;370;93;"Divisão 80/20 estratificada por região intermediária, semente 42; k = 5."
+Silhueta;0,2633;0,2065;0,263;0,206;Coesão/separação dos grupos (-1 a 1). Teste no mesmo patamar do treino = a estrutura se mantém em municípios que o modelo não viu.
+Distância média ao centróide;2,0775;2,1930;2,078;2,193;Em desvios-padrão. Teste próximo do treino = municípios novos se encaixam tão bem quanto os de treino.
+Razão distância teste/treino;;1,0556;—;1,056;Perto de 1,0 indica ausência de sobreajuste.
+Concordância com modelo de referência (%);;61,2903;—;61,3%;% dos municípios de teste que recebem o mesmo cluster que receberiam de um modelo ajustado com 100% dos dados.
+Adjusted Rand Index (ARI);;0,4293;—;0,429;Mesma comparação, corrigida pelo acaso (0 = aleatório, 1 = idêntico).
