@@ -31,8 +31,8 @@ Solução completa de BI e analytics sobre o **crédito rural do Pronaf (Program
 ## 🔗 Links importantes
 
 | Artefato                   | Link                                                                    |
-| -------------------------- | ----------------------------------------------------------------------- | --- |
-| 📄 Relatório Técnico (PDF) | `docs/relatorio_tecnico.pdf`                                            |     |
+| -------------------------- | ----------------------------------------------------------------------- |
+| 📄 Relatório Técnico (PDF) | `docs/relatorio_tecnico.pdf`                                            | 
 | 📊 Painel Power BI         | `dashboard/projeto_pronaf_formatado_ml.pbix` (e `.pbit` como modelo)    |
 | 💾 Repositório             | [https://github.com/Nadine-Schneider/projetos-integrados-analytics-ABI] |
 
